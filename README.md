@@ -15,7 +15,7 @@ Thus, within this repository lies not merely the artifacts of our endeavor, but 
 ## Data Dazzlers Team Members
 Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow | Zachariah Woodbridge
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/bryannafox)| [Linkedin](https://www.linkedin.com/in/deqa) | [Linkedin](https://www.linkedin.com/in/dominique) | [Linkedin](https://www.linkedin.com/in/heraldo)  [Linkedin](https://www.linkedin.com/in/tianna) | [Linkedin](https://www.linkedin.com/in/zachariahw) 
+| [Linkedin](https://www.linkedin.com/in/bryannafox)| [Linkedin](https://www.linkedin.com/in/deqa) | [Linkedin](https://www.linkedin.com/in/dominique) | [Linkedin](https://www.linkedin.com/in/heraldo) | [Linkedin](https://www.linkedin.com/in/tianna) | [Linkedin](https://www.linkedin.com/in/zachariahw) 
 | [Github](https://github.com/bryanna)| [Github](https://github.com/deqa) | [Github](https://github.com/dominique) | [Github](https://github.com/heraldo) | [Github](https://github.com/tianna) | [Github](https://github.com/Z-Zachattack) 
 
 <br>

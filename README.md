@@ -16,7 +16,7 @@ Thus, within this repository lies not merely the artifacts of our endeavor, but 
 Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow | Zachariah Woodbridge
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/bryannafox)| [Linkedin]((https://www.linkedin.com/in/deqa-hussein-408196144/)) | [Linkedin](https://www.linkedin.com/in/dominique) | [Linkedin](https://www.linkedin.com/in/heraldo-morales/) | [Linkedin](https://www.linkedin.com/in/tianna) | [Linkedin](https://www.linkedin.com/in/zachariahw) 
-| [Github](https://github.com/bryanna)| [Github]([https://github.com/deqa](https://github.com/DeqaHussein)) | [Github](https://github.com/dominique) | [Github](https://github.com/heraldo) | [Github](https://github.com/tianna) | [Github](https://github.com/Z-Zachattack) 
+| [Github](https://github.com/bryanna)| [Github]((https://github.com/DeqaHussein)) | [Github](https://github.com/dominique) | [Github](https://github.com/heraldo) | [Github](https://github.com/tianna) | [Github](https://github.com/Z-Zachattack) 
 
 <br>
 

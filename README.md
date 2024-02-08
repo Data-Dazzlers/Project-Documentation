@@ -36,5 +36,6 @@ Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow |
     * [IAM](https://docs.google.com/document/d/1LqJWGOTv58YsE8Qhspr6SCkOlggZnex_VAGQLEjvV1k/edit?usp=sharing)
 * [Compliance-Payment Card Industry](https://docs.google.com/document/d/1pSP7aNwhk6fGx8Mml0FKIhm7FN7OBGiSHUF9HcRBAOc/edit?usp=sharing)
 * [Security Incident Plan](https://docs.google.com/document/d/14hwaPxRLKQNhNjzdxbzToT_mLDSfcAJYQDtHRBcg_N8/edit?usp=sharing)
+* [Cloud Security Policy: Implementing CloudWatch, VPNs, and VPCs](https://docs.google.com/document/d/18GVxs2mxeKIGT49SRD096LMRbU9TEEGoDa6nYkDz-OA/edit?usp=sharing)
 * [Presentations](https://docs.google.com/presentation/d/1LBkngG9XAUGY0ZW0ZxkMv-e3kTf5jqFxGK0s_F2DtNE/edit?usp=sharing)
 * [Scripts](https://github.com/Data-Dazzlers/Scripts)

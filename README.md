@@ -25,7 +25,7 @@ Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow |
 
 
 ## Presentations
-[Slideshow]()
+[Slideshow](https://docs.google.com/presentation/d/1LBkngG9XAUGY0ZW0ZxkMv-e3kTf5jqFxGK0s_F2DtNE/edit?usp=sharing)
 
 ## Repositories
 * SOP:

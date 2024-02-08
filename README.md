@@ -33,6 +33,7 @@ Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow |
     * [Monitoring and Responding to Threats](https://docs.google.com/document/d/1b4ujtARYP1qmovmJNTeMImweNtUFBl2TA6raYEEwVfw/edit?usp=sharing)
     * [CIS (Windows Server (DC))](https://docs.google.com/document/d/1lRljNvhPEUV4_vWKUppItqaPZp5wKRA4dcsNTOCPsAk/edit?usp=sharing)
     * [CIS (Linux Server)](https://docs.google.com/document/d/1P2VrEjHn5H_zpde4qcaCK8Hvr2NFiil9_g89No9povY/edit?usp=sharing)
+    * [IAM](https://docs.google.com/document/d/1LqJWGOTv58YsE8Qhspr6SCkOlggZnex_VAGQLEjvV1k/edit?usp=sharing)
 * [Compliance-Payment Card Industry](https://docs.google.com/document/d/1pSP7aNwhk6fGx8Mml0FKIhm7FN7OBGiSHUF9HcRBAOc/edit?usp=sharing)
 * [Security Incident Plan](https://docs.google.com/document/d/14hwaPxRLKQNhNjzdxbzToT_mLDSfcAJYQDtHRBcg_N8/edit?usp=sharing)
 * [Presentations](https://docs.google.com/presentation/d/1LBkngG9XAUGY0ZW0ZxkMv-e3kTf5jqFxGK0s_F2DtNE/edit?usp=sharing)

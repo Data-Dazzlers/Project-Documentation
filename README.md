@@ -15,8 +15,8 @@ Thus, within this repository lies not merely the artifacts of our endeavor, but 
 ## Data Dazzlers Team Members
 Bryanna Fox | Deqa Hussein | Dominique Bruso | Heraldo Morales | Tianna Farrow | Zachariah Woodbridge
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/bryanna-k-fox109)| [Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/) | [Linkedin](https://www.linkedin.com/in/dominique) | [Linkedin](https://www.linkedin.com/in/heraldo-morales/) | [Linkedin](https://www.linkedin.com/in/tianna) | [Linkedin](https://www.linkedin.com/in/zachariahw) 
-| [Github](https://github.com/BryannaKFox)| [Github](https://github.com/DeqaHussein) | [Github](https://github.com/dominique) | [Github](https://github.com/heraldo) | [Github](https://github.com/tianna) | [Github](https://github.com/Z-Zachattack) 
+| [Linkedin](https://www.linkedin.com/in/bryanna-k-fox109)| [Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/) | [Linkedin](https://www.linkedin.com/in/dominique) | [Linkedin](https://www.linkedin.com/in/heraldo-morales/) | [Linkedin](www.linkedin.com/in/tianna-farrow) | [Linkedin](https://www.linkedin.com/in/zachariahw) 
+| [Github](https://github.com/BryannaKFox)| [Github](https://github.com/DeqaHussein) | [Github](https://github.com/dominique) | [Github](https://github.com/heraldo) | [Github](https://github.com/raqueltianna) | [Github](https://github.com/Z-Zachattack) 
 
 <br>
 
